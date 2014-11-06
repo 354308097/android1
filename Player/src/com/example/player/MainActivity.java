@@ -40,6 +40,7 @@ public class MainActivity extends Activity {
     private TextView text_Duration;
     private SeekBar seekBar;
     //更新进度条的Handle
+    //qqqqqqqq
     private Handler seekBarHandler;
     //当前歌曲的持续时间和当前位置，作用于进度条
     private int duration;
